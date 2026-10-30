@@ -1,0 +1,9 @@
+{
+  "name": "Grand Table Casino",
+  "short_name": "Grand Table",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1017",
+  "theme_color": "#0d1017",
+  "icons": []
+}
